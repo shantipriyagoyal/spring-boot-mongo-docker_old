@@ -2,7 +2,7 @@
 .gradle/
 build/
 
-### Java  template
+### Java template
 *.class
 .settings
 .classpath
